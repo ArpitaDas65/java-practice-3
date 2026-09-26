@@ -1,15 +1,20 @@
+# ☕ JAVA PRACTICE
 
-#JAVA PRACTICE
+Beginner-friendly Java programs for practicing **Core Java concepts** and building programming fundamentals.
 
-beginner java programs for practicing core concepts .
+## 📚 Topics
 
-###topics 
--Arrays 
--Sorting and searching 
--Array to string 
--Garbage Collection 
--classes and objects 
--Inheritance
+* Arrays
+* Sorting & Searching
+* Array to String
+* Garbage Collection
+* Classes & Objects
+* Inheritance
 
+## 🎯 Purpose
 
-###Author : Arpita Das :)
+A collection of simple Java programs created while learning and practicing **Core Java** concepts.
+
+## 👩‍💻 Author
+
+**Arpita Das :)**
